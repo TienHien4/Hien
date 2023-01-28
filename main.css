@@ -1,0 +1,26 @@
+.box
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+    font-size: 50px;
+    background-color: red; 
+    padding:20px;
+    border: 2px solid black;
+    background-image: url(https://khoinguonsangtao.vn/wp-content/uploads/2022/08/hinh-nen-nhe-nhang-cute-ve-hoa-dao.jpg);
+    background-size: contain;
+    
+}
+h1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.English
+{
+    background-image: url(https://khoinguonsangtao.vn/wp-content/uploads/2022/08/hinh-nen-nhe-nhang-cute-ve-hoa-dao.jpg);
+}
